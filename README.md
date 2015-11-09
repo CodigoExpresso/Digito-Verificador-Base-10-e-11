@@ -1,12 +1,12 @@
 www.codigoexpresso.com.br
 
 
-CÛdigo da postagem DÌgito verificador base 10 e 11 em C#(CSharp)
+C√≥digo da postagem D√≠gito verificador base 10 e 11 em C#(CSharp)
 
 ---
 
-Exemplo pr·tico da classe DÌgito verificador base 10 e 11 em Visual Studio 2013
+Exemplo pr√°tico da classe D√≠gito verificador base 10 e 11 em Visual Studio 2013
 
 
 
-Acesse o link direto da postagem em http://codigoexpresso.com.br/Home/Postagagem/19
+Acesse o link direto da postagem em http://codigoexpresso.com.br/Home/Postagem/19

@@ -9,4 +9,4 @@ Exemplo prático da classe Dígito verificador base 10 e 11 em Visual Studio 201
 
 
 
-Acesse o link direto da postagem em http://codigoexpresso.com.br/Home/Postagem/19
+Acesse o link direto da postagem em http://www.codigoexpresso.com.br/Home/Postagem/19
